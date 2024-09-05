@@ -33,13 +33,13 @@ img{
 
 .bold{
     margin-top: 10px;
-    font-family: Outfitbold;
+    font-family: 'Outfitbold';
     padding: 5px;
     font-size: 19px;
 }
 
 .regular{
-    font-family: Outfit;
+    font-family: 'Outfit';
     margin-top: 10px;
     padding: 5px;
     font-size: 13px;
