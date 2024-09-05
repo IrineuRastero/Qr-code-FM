@@ -1,10 +1,10 @@
 @font-face {
     font-family: Outfitbold;
-    src: url(/src/font/Outfit-Bold.ttf);
+    src: url(../font/Outfit-Bold.ttf);
 }
 @font-face {
     font-family: Outfit;
-    src: url(/src/font/Outfit-Regular.ttf);
+    src: url(../font/Outfit-Regular.ttf);
 }
 
 body{
